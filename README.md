@@ -19,3 +19,10 @@ If possible, also add the game's icon to the [Icons](https://github.com/teknogod
 When updating a GameProfile, increment the ``GameProfileRevision``.
 
 Do not commit any GameProfile/Descriptions changes to the ``TeknoParrotUi.Common.csproj`` file. The files will be added automatically when the project is reloaded.
+
+
+Limitations!!!!
+Missing Discord rpc icon for wmmt5, wmmt6, and wmmt6r
+Icons must be added manually to the icons folder after build for some wierd reason...
+Personally im not happy with the 6rr+ icon but it will DO!
+Router ip is missing, and i want to implement it later, but no cuz im lazy and just want this to work.
