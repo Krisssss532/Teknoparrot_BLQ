@@ -16,7 +16,7 @@ Limitations!!!!
 
 Missing Discord rpc icon for wmmt5, wmmt6, and wmmt6r
 
-Icons must be added manually to the icons folder after build for some wierd reason...
+~~Icons must be added manually to the icons folder after build for some wierd reason...~~ this is fixed now
 
 Personally im not happy with the 6rr+ icon but it will DO!
 
